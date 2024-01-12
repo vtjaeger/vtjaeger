@@ -1,16 +1,19 @@
-### Hi there 👋
+<p>• Computer Science Student at Unisinos</p>
+<p>• Working in the Quality Management Industry at Via Aroma</p>
+<p>• <a href="https://www.linkedin.com/in/vin%C3%ADcius-jaeger-821839271/">LinkedIn</a></p>
 
-<!--
-**vtjaeger/vtjaeger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href="https://github.com/vtjaeger">
+<!--     <img align="center" height="175" src="https://github-readme-stats.vercel.app/api?username=vtjaeger&show_icons=true&theme=gruvbox"> -->
+    <img align="center" height="175" src="https://github-readme-stats.vercel.app/api/top-langs?username=vtjaeger&theme=gruvbox&layout=compact">
+  </a>
+</div>
 
-Here are some ideas to get you started:
+<div style="display: flex; justify-content: center; align-items: center; margin: 10px;">
+  <div style="display: inline-block;">
+    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot">
+    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" alt="Java">
+    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" alt="PostgreSQL">
+  </div>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
