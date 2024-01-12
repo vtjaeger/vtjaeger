@@ -1,5 +1,6 @@
 <p>• Computer Science Student at Unisinos</p>
 <p>• Working in the Quality Management Industry at Via Aroma</p>
+<p>• Currently focusing on <i>Spring Boot</i></p>
 
 <div>
   <a href="https://github.com/vtjaeger">
