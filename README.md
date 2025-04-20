@@ -1,5 +1,5 @@
 <p>• Computer Science Student at Unisinos</p>
-<p>• Working as a Support Assistant at Via Aroma</p>
+<p>• C# Developer at Via Aroma </p>
 <p>• Interested in Software Development and Backend</i> </p>
 
 <div>
